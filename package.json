@@ -1,0 +1,16 @@
+{
+  "name": "img-edit-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "@google/generative-ai": "^1.0.0",
+    "dotenv": "^16.0.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
